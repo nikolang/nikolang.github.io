@@ -161,7 +161,6 @@ JadynBugg
 JaekSmith
 JamieLovesYou
 JasmineBlood
-JCK_Official
 jcln
 jeffafa199
 Junni Queen
@@ -380,6 +379,7 @@ Type 29RD
 uco
 UnclePunkle
 UndeadAkira
+Unknown_Proto
 VengefulAbby
 VenusSX
 Vex The Don
@@ -404,7 +404,6 @@ Windisprite
 WolfOfMandalore
 wolfore
 Worksolution506
-Xendrosz
 Xeon_The_Fox
 XeonPhi
 xFBErey
