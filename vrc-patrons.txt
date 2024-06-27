@@ -112,6 +112,7 @@ DragonXSega
 DrHarls
 DruidWolf16
 Dust_Moon
+Dust_Moon
 EchoCoreVRC
 Ehxpy
 Eʟʏsia
@@ -246,6 +247,7 @@ Okabintaro
 OmgshYouFoundMe
 onco99
 OniSavage1
+Orca／おるか
 Ori Wicker
 P1C0N3WGR0UNDS
 Pacois20
@@ -375,7 +377,6 @@ VolticLightning
 vRaller
 Vutheo
 WakandaMafia
-Dust_Moon
 WeskerWolf
 wespark99
 WolfOfMandalore
