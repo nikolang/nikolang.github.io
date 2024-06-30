@@ -27,6 +27,7 @@ alexander_owl2
 Alexiane
 alexmarsh
 AlexMercer2
+AliPyro
 aliteralspoon
 AllFurredUp
 AlphaTheRaptor
@@ -365,7 +366,7 @@ UndeadAkira
 Unknown_Proto
 VengefulAbby
 VenusSX
-Vex The Don
+alipyro
 Vhex
 VidaAnatta f854
 VirtualVoid
