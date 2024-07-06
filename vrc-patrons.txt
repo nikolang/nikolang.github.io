@@ -115,7 +115,6 @@ DragonXSega
 DrHarls
 DruidWolf16
 Dust_Moon
-EchoCoreVRC
 Ehxpy
 Eʟʏsia
 Erenyeageraot 8c8d
@@ -160,6 +159,7 @@ JadynBugg
 JaekSmith
 JamieLovesYou
 JazzyKoKo
+JCK_Official
 jcln
 jeffafa199
 Johnman4573
@@ -302,7 +302,6 @@ samxrwa
 sansfan3
 Sapheos
 sashaluvskeegan
-SC0FI
 Schnitty
 Sebastianz5
 SeraphinaeusVR
@@ -424,5 +423,4 @@ ZZ_Ignis
 ダークチョコレートモカ
 亞 Grim Reaper 亞
 依天Eten
-幻弦紫晶
 银心_henry
