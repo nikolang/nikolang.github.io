@@ -1,6 +1,7 @@
 __Spaceman__
 _Barker_
 -- nikki --
+--Nomad--
 -SAIKOU-
 ․Boogie․
 『cardborb』
@@ -187,7 +188,6 @@ Kiria aRisa
 kit_0x0
 Kit-UwU
 kjrocco
-Knight_Maximus
 KonataMp6
 kondor_sin 1102
 Kosima
