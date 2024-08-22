@@ -122,6 +122,7 @@ DragonXSega
 DrHarls
 DriscolCassidy
 Dust_Moon
+ᴅʏᴢᴢʏ
 Ehxpy
 Eʟʏsia
 EmDaWeirdo
@@ -402,7 +403,6 @@ TheSharpAF
 TheSkyWinds
 TheTinySylveon
 thewackygal
-TheyCallMeJames
 Thomas Hohe
 ThunderBolt95
 Tinsfur
@@ -435,6 +435,7 @@ Windisprite
 wiriestbobcat
 WolfOfMandalore
 Worksolution506
+Xeon
 Xeon_The_Fox
 XeonPhi
 Xeygwyn
@@ -452,7 +453,6 @@ YulesIce
 Yur_a_KHunt
 yveltalite
 zaccyboyf df32
-Xeon
 ZaviorTheGlitch
 Zazck12
 ZikaWolf
