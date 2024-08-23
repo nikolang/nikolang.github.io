@@ -79,6 +79,7 @@ ChaoticBlatcue
 ChaoticQ
 ChaseTubbyVA
 Chief Meat ［JP］
+ChillingLucario
 ChoclateMan
 Choom_1
 ChopperMan49
@@ -397,8 +398,6 @@ Thaddeus999
 THE FCS PLAYER
 THE SHUSHU
 The_observer-
-TheAuraFusion
-TheCrazyCos
 TheGuardianWolf
 TheNachtWolf
 TheRealAlCapone27 7f43
