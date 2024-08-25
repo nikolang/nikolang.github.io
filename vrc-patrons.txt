@@ -436,7 +436,6 @@ Windisprite
 wiriestbobcat
 WolfOfMandalore
 Worksolution506
-Xeon
 Xeon_The_Fox
 XeonPhi
 Xeygwyn
@@ -453,6 +452,7 @@ yoyopiraka e670
 YulesIce
 Yur_a_KHunt
 yveltalite
+Zach Ziaxion
 ZaviorTheGlitch
 Zazck12
 ZikaWolf
