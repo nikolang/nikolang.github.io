@@ -393,7 +393,6 @@ TheReal_Flo_
 TheShadowyZav
 TheSharpAF
 TheSkyWinds
-Thomas Hohe
 ThunderBolt95
 Tinsfur
 Tokyo_kanekii
@@ -427,6 +426,7 @@ WeskerWolf
 wespark99
 Windisprite
 WolfOfMandalore
+wolfore
 Worksolution506
 WorldUnknown
 Xeon_The_Fox
