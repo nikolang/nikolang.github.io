@@ -423,6 +423,7 @@ RavenStarGames
 RaveSystem101 b012
 RayaByte
 Rayvalio
+RayWarrior01
 RCfanatic
 ReadyPlayer0815
 Reaper_1072
@@ -524,7 +525,6 @@ TheNachtWolf
 TheSharpAF
 Theta60
 TheTinySylveon
-TheVrChatDJ
 THxDDEUS
 Tiger Night owl
 timbra
