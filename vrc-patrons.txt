@@ -51,7 +51,6 @@ AlphaTheRaptor
 Amrak--
 Anette~
 AngelDaFox
-AngelicSynthVR
 Apollypse Zevai
 Arenie
 Ares' disciple
@@ -213,6 +212,7 @@ jcln
 JDMarkim00
 jeffafa199
 Jerryfoxxo
+jhonwi
 Jjazzl0901
 Jøker
 JonesVR
