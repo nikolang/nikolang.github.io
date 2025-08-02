@@ -26,7 +26,7 @@ _Redkitsune_
 ~Faye Kitsune~
 ~GoldenEclipse~
 ~Natasha Audax~
-~Okapi~
+~Prof_Okapi~
 ~Tatsua~
 ~Týr~
 ~xᴀʏʙᴜɢ~
@@ -444,6 +444,7 @@ Ryu_Darkfeather
 RΛMI ΛSƬRΣΛLIS
 Ɍı̷̇
 Saitura
+SakuraNiji
 salsa fox
 SaltNCyanide
 sammy_VRC
