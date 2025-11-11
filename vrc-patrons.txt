@@ -20,6 +20,7 @@ __BOON__
 ~~NovaNixie~~
 ~BreeTheWolf~
 ~Brodiak~
+~Bug_~
 ~Drippy~
 ~Faye Kitsune~
 ~Mavis_Jackal~
@@ -49,9 +50,9 @@ Arrga
 Artemis Wolgon
 AsheVA
 Ashindire
-Asoc
 Chadley03
 Čhąø§
+Asoc
 Assassin1113 24
 AstralFennex
 AstralMelodii
@@ -386,6 +387,7 @@ SonicXFire1987
 SparkleTime
 speedmilo
 Spider-Bat
+sqynsquid
 StarEclipse-101
 Starfang156
 STARMVCHINE
