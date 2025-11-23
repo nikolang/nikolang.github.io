@@ -26,7 +26,6 @@ __BOON__
 ~Bug_~
 ~Drippy~
 ~Faye Kitsune~
-~Mavis_Jackal~
 ~MorvaineCatto~
 ~NebulaKiwi~
 ~Special Edd~
@@ -388,6 +387,7 @@ Shadow68Dragon
 ShadowM0narch
 Shattered Halo
 ShayCat
+Sheldon_SpaceX
 Shellytheshrimp
 ShiloGrim
 shiniclone
