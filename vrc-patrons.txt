@@ -173,6 +173,7 @@ Father_Døge_VR
 FatherPatty
 Fawkes_Phoenix
 Fawkes973
+FennecBlight
 FindingANest
 Fîreball
 Firefly45
@@ -464,6 +465,7 @@ TaglessVR
 TailsTheFox
 Tajasuka
 TanzaFox
+Taytonic
 Techno9
 Temporal
 Terasaka
@@ -476,6 +478,7 @@ The Last Hope
 THE SHUSHU
 The_Cailleach
 Thebackygatex
+TheBoople
 TheFlyingFlapjack
 TheGoldenAxe001
 TheGuardianWolf
