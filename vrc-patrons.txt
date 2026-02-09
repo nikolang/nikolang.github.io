@@ -162,6 +162,7 @@ DOOM_AUS
 DorothyPosting
 Drachan
 DragonLord Cain
+DragonMageVR
 DragonXSega
 DrakeRaizard
 drforrester87
