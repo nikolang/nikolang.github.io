@@ -345,6 +345,7 @@ RingoSatire
 RnS_Hydra 1da2
 Ronnek
 Rose_Afton
+Roselia「ロゼリア」
 RudyL
 RuneTheWolf
 RyaHunniBunni
