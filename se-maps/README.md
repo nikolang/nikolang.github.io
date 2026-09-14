@@ -1,8 +1,7 @@
 # se-maps
 
-Map tiles for the VRChat world "Suborbital Express". Derived works from the open
-data sets below. These attributions are a licence condition and must be kept
-with any reuse.
+Map tiles for the VRChat world "Suborbital Express", derived from the open data
+sets below.
 
 **Satellite imagery (surface albedo)**
 Contains modified Copernicus Sentinel data 2023, 2024.
@@ -25,8 +24,3 @@ DOI 10.25921/fd45-gt74. Public domain (U.S. Government work).
 © OpenStreetMap contributors, Open Database License (ODbL),
 <https://www.openstreetmap.org/copyright>
 © ESA WorldCover project 2021, CC BY 4.0, <https://esa-worldcover.org>
-
-## Licence
-
-Reuse is permitted under the terms of the sources named above. The attributions
-must be carried along.
