@@ -227,7 +227,6 @@ pllmop
 PorosityBat
 poulut
 Pulg
-Pup Corsair
 Purplestrider
 Pølnu
 Raingram
