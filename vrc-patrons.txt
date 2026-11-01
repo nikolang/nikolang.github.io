@@ -99,6 +99,7 @@ EvilJackCarver
 Evonny
 Face
 FancyHeadcrab
+FatallError
 Father_Døge_VR
 FatherPatty
 Fawkes973
