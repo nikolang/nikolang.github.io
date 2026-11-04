@@ -5,7 +5,6 @@
 __Aejis__
 __BOON__
 __Kasper
-A_VeryCrossFox
 AAA_Mars
 Ace__Vision
 AileeraWolfette
@@ -126,7 +125,6 @@ HiroRwar
 HouseOnTwitch
 hrgargi
 HunterForce
-hunterqr
 I am not a cat
 iKENICi
 indignation
